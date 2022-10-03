@@ -11,3 +11,5 @@ Although the input formate is still the same, it set the engine and battery type
 
 # Model answer
 https://github.com/vagabond-systems/forage-lyft-task-2-model-answer
+https://github.com/vagabond-systems/forage-lyft-task-3-model-answer
+https://github.com/vagabond-systems/forage-lyft-task-4-model-answer
